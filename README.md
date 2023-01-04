@@ -1,1 +1,1 @@
-# C-projects
+# Insult Generator Project
